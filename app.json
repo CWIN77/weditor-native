@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Weditor",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "Weditor",
+    "ios": {
+      "bundleIdentifier": "com.cwin.weditor",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.cwin.weditor",
+      "versionCode": 1
+    }
+  }
+}
